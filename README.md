@@ -23,6 +23,13 @@ Sometimes doing less *is* the feature.
 3. The setup window will appear with Start/Stop buttons
 4. Click "Start" to begin the breathing animation
 
+## Getting the Code
+
+You can clone this repo with:
+
+```bash
+git clone https://github.com/monikatomanek/BoxBreathing.git
+
 ## Notes
 
 - This app is designed to be minimally intrusive
