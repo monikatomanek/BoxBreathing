@@ -34,3 +34,10 @@ Sometimes doing less *is* the feature.
 
 Box breathing is a technique used to calm the nervous system, reduce anxiety, and increase focus.
 This app makes it visual and passive - no need to count in your head.
+
+## Download
+
+You can download the latest version of BoxBreathing here:  
+➡️ [Download BoxBreathing v1.0.0](https://github.com/monikatomanek/BoxBreathing/releases/latest)
+
+No build required—just unzip and run `BoxBreathing.exe`.
